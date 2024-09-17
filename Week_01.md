@@ -30,10 +30,10 @@ a. GitHub project (link): [https://github.com/orgs/fac30/projects/15/views/1?lay
 b. The JavaScript to change colour variables of the CSS file (in :root): 
 
 // COLOUR SWITCHER
-
+```
 document.getElementById('planetsNav').addEventListener('change', function(event) {
   const planetName = event.target.value.toLowerCase();
-  
+ 
   // Get the selected planet's data (e.g., jupiter, mars)
   
   const planet = window[planetName]; // Assuming you have them in global scope
@@ -56,7 +56,7 @@ document.getElementById('planetsNav').addEventListener('change', function(event)
   const image = document.getElementById('planetImage');
   image.src = planet.image;
 });
-
+```
 // We started from the idea of implementing a switching themes, but then added info about each planets and changed the image.
 
 
@@ -68,5 +68,15 @@ I want to imporove the way a project is presented, the structure of CSS, HTML, J
 
 Feedback (For CF's)
 [Course Facilitator name]
+
+Alexander
+
 [What went well]
+
+You got the core learning that we set for Week 01, like git workflow and some complex CSS.
+
 [Even better if]
+
+Feel free to go more technical and specific. Some good examples would be DOM manipulation using JS, interesting event listeners, specific CSS behavior.
+Ideally just one or two lines per topic and a brief code snippet as an example.
+Also, there is no need to paste the code exactly as it is in the project. Ideally, you will delete everything that is not necessary to support what you want to explain.
