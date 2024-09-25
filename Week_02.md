@@ -53,6 +53,14 @@ module.exports = {
 > I am reviewing code almost every day, this should help make me understand better all the concepts I have learned this week.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+I am glad that you are enjoying backend Khalos, and also testing! For most people it is something too abstract so they don't invest much time there and they become too "front endy".
+
 > [*Even better if*]
+
+For next week try to give me a few short examples instead of one big. Also shorter snippets work better than pasting the whole module. For your struggles try to be more specific
