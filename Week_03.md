@@ -36,6 +36,15 @@ ____
 On another side this means I wasn't able to complete my tasks during the working hours, so it might be that I will do some extra working hours soon or ask my colleagues to take over some parts of the project if they have more time. This is something I feel good about, the team is very supportive and we are good at helping each other.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+It is great that you are taking a very mature approach to the course. You are doing the right thing at setting your priorities, this will also help you and your team to set more realistic expectations for your project and create a more accurate project plan.
+
 > [*Even better if*]
+
+You could make the progress log a bit more technical. There is no need to write here your EP progress (you are not going to check that in the future). This supposed to be something like a cheatsheet for yourself, or even for other people who are struggling with specific problems. Ideally you set a problem or something that you consider very important, how to fix or execute it and code snippet as an example.
+You can have a peak to Jason's PLog (Week03), it is a great example.
