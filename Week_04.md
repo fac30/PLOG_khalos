@@ -197,6 +197,14 @@ const TextArea: React.FC<TextAreaProps> = ({ label, placeholder, onChange }) => 
 I learned many other things this week, more TypeScript on Execute Program, more notes taken on my Obsidian, Levi showed me some of his work, the basics of React etc...
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Very detailed progress log, thanks for sharing. Snippets are good quality and looks like you got all the important learning for this week 
+
 > [*Even better if*]
+
+You could be a bit more concise, there is no need to mention the specifics of your group dynamics. Consider this log more like a resource or a repository where you keep track of important learnings and code examples of those. Almost like a cheatsheet.
