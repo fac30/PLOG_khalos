@@ -30,6 +30,10 @@ This led to an amazingly organised use og Git, which makes life so much easier f
 Making our Zubi project mobile first and responsive. It can be time consuming at the beginning of the project, but it is an absolute blessing later in the project because now our website is looking great!
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+I love how you all improved on your PR. This good practices will make your life much easier when you start working in a company.
