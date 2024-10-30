@@ -18,6 +18,14 @@ I am improving my commits, PR requests, going on with Execute Program and taking
 I am struggling with Authentication in general, especially now we managed to connect the LOGIN front and backend, but we haven't managed to connect the LOGOUT, although it is working on the backend already. I have to take charge of the SIGNUP, this will be my struggle for the weekend.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You shared your struggles
+
 > [*Even better if*]
+
+You improved on your PR habits, you could show examples like the templeate or even share some of your obsidian notes...
