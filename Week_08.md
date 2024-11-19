@@ -13,6 +13,8 @@ This week I continued with the Exectute Program courses, although it is going ve
 I am going to pass on this part for this week.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+> [**Course Facilitator name**]
+
+Alexander
+
+So I guess that I am going to pass on the feedback for this week
