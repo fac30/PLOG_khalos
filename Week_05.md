@@ -57,6 +57,14 @@ One of my colleagues de-activated the Focus option because it distracted their c
 The button to navigate back to the previous page in the Navbar is another example of me not being sure how to make it more accessible. I edited it to look and behave like a button, but thanks to the Thursday talk I now understand how inaccessible it is, and how I should implement it in future projects.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good implementation of dynamic navbar with TypeScript and clear understanding of layout management using Tailwind. Strong focus on mobile-first development and appreciation for clean design principles.
+
 > [*Even better if*]
+
+Provide code examples of how you would improve the inaccessible button you mentioned. Show specific accessibility improvements you'd make now after the Thursday talk.
