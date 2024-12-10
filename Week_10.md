@@ -2,12 +2,8 @@
 Answer the following questions considering the learning outcomes for
 - [Week 010](https://learn.foundersandcoders.com/course/syllabus/developer/week10-project05-DOTNET-intro/learning-outcomes/)
 
-Make sure to record evidence of your processes. You can use code snippets, screenshots or any other material to support your answers.
-
-Do not fill in the feedback section. The Founders and Coders team will update this with feedback on your progress.
-
 ## Assessment
-This week was the last one of my project with Max and Gaj. It was mostly refinements, devops done by Max and final presentation.
+This week I tried to understand .Net and C# better and work more on the BE, as I mostly worked on the FE for this project.
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
 --
